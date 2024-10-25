@@ -1,0 +1,18 @@
+.save-input {
+      width: 100%;
+      padding: 10px;
+      border-radius: 10px 0 0 10px;
+      border: 2px solid rgb(173, 173, 173);
+      border-right: none;
+
+}
+
+.save-btn {
+
+
+      padding: 12px;
+      border-radius: 0 10px 10px 0;
+      border: 2px solid rgb(173, 173, 173);
+      border-left: none;
+      color: black;
+}
